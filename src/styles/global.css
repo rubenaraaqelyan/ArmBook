@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Glory&display=swap');
+
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Glory', sans-serif;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#theme {
+    display: none;
+}
+#theme:checked ~ * {
+    filter: invert(1);
+}
+
+.App {
+    width: 100%;
+    min-height: 100vh;
+    background: white;
+}
+
+.main {
+    max-width: 1000px;
+    width: 100%;
+    min-height: 100vh;
+    margin: auto;
+}
+
+img {
+    object-fit: cover;
+}
+
+.toast{
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    min-width: 200px;
+    z-index: 50;
+    color: white;
+}
+.general{
+    color: white;
+}
+.general:hover{
+    color: blue;
+    transition: all .3s;
+}
+
+.material-icons{
+    color: white;
+}
+.material-icons:hover{
+    color: blue;
+    transition: all .2s ease-in-out;
+}
+
+.same{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.postImg{
+    width: 150px;
+}
+.beg{
+    color:blue;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.icons{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+.suggestions{
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 5%;
+}
+.card{
+    margin-top: 25px;
+}
+
+.fix{
+    width: 450px;
+    height:320px;
+    overflow:hidden;
+}
+
+.users{
+    display: flex;
+}
+.point{
+    cursor: pointer;
+}
+
+
+@import url("./auth.css");
+
+
+@import url("./loading.css");
+
+
+@import url("./header.css");
+
+
+@import url("./avatar.css");
+
+
+@import url("./header.css");
+
+
+@import url("./profile.css");
+
+
+@import url("./home.css");
+
+
+@import url("./statusModal.css");
+
+
+@import url("./comments.css");
+
+/* -------- Post Thumb ---------- */
+@import url("./post.css");
+
+/* -------- Message---------- */
+@import url("./message.css");
+
+/* -------- Icons---------- */
+@import url("./icons.css");
+
+/* -------- Call Modal---------- */
+@import url("./callModal.css");
+
+
+
+/* --------- Responsive ------ */
+@media (max-width: 766px){
+    .header .navbar .logo{
+        display: none;
+    }
+    .header .menu{
+        width: 100%;
+        height: 40px;
+    }
+    .header .menu .navbar-nav{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .header .search_form{
+        width: 100%;
+    }
+    .header .logo{
+        margin: auto;
+    }
+    .header .logo h1{
+        font-size: 1.5rem;
+    }
+
+    .message{
+        height: calc(100vh - 100px);
+    }
+    .right_mess,
+    .left_mess{
+        display: none;
+    }
+    .status{
+        padding: 20px 10px;
+    }
+}
+.super-big-avatar{
+    width: 300px;
+    height: 250px;
+}
+
+.mode{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
