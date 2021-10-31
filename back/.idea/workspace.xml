@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f065ce15-96cf-4f02-a748-27780262242c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="facebook@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="facebook@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="facebook@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="facebook: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xcRlWC7ySp2GhI6ti86ljBIdQi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.0.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.0.0" />
+    <property name="last_opened_file_path" value="C:/Rubo_Instagram" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\jEbrains2\WebStorm 2020.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Facebook_WeConstract\back\middlewares" />
+      <recent name="E:\Facebook_WeConstract\back\handlers" />
+      <recent name="E:\Facebook_WeConstract\back\routes" />
+      <recent name="E:\Facebook_WeConstract\back" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="db:seed:all" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="db:seed:all" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.db:seed:all" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f065ce15-96cf-4f02-a748-27780262242c" name="Default Changelist" comment="" />
+      <created>1630652541633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630652541633</updated>
+      <workItem from="1630652542700" duration="4603000" />
+      <workItem from="1630664391755" duration="17866000" />
+      <workItem from="1630694209112" duration="21332000" />
+      <workItem from="1630735591817" duration="13029000" />
+      <workItem from="1630760879804" duration="7013000" />
+      <workItem from="1630839782385" duration="4529000" />
+      <workItem from="1630856558344" duration="8239000" />
+      <workItem from="1630908541913" duration="28353000" />
+      <workItem from="1630952023917" duration="9886000" />
+      <workItem from="1630996771274" duration="22808000" />
+      <workItem from="1631037003673" duration="8423000" />
+      <workItem from="1631076154729" duration="188000" />
+      <workItem from="1631083121493" duration="18784000" />
+      <workItem from="1631124915107" duration="18168000" />
+      <workItem from="1631168951214" duration="24626000" />
+      <workItem from="1631210477893" duration="9131000" />
+      <workItem from="1631255330366" duration="18266000" />
+      <workItem from="1631290058394" duration="785000" />
+      <workItem from="1631301665469" duration="6525000" />
+      <workItem from="1631353626887" duration="16319000" />
+      <workItem from="1631394428934" duration="1719000" />
+      <workItem from="1631428311295" duration="632000" />
+      <workItem from="1631440156071" duration="5086000" />
+      <workItem from="1631510907091" duration="8454000" />
+      <workItem from="1631557418371" duration="7941000" />
+      <workItem from="1631599118313" duration="13499000" />
+      <workItem from="1631641528317" duration="6846000" />
+      <workItem from="1631687755299" duration="15812000" />
+      <workItem from="1631735057372" duration="988000" />
+      <workItem from="1631772914676" duration="11755000" />
+      <workItem from="1631813426005" duration="2680000" />
+      <workItem from="1631859351604" duration="5682000" />
+      <workItem from="1631880938449" duration="2867000" />
+      <workItem from="1631902391340" duration="1204000" />
+      <workItem from="1631903810895" duration="6490000" />
+      <workItem from="1631945160348" duration="9000" />
+      <workItem from="1631945178582" duration="10281000" />
+      <workItem from="1631970399703" duration="132000" />
+      <workItem from="1631983996811" duration="351000" />
+      <workItem from="1631993637610" duration="2406000" />
+      <workItem from="1632050621176" duration="6949000" />
+      <workItem from="1632115575404" duration="11547000" />
+      <workItem from="1632156877440" duration="5771000" />
+      <workItem from="1632202941171" duration="16898000" />
+      <workItem from="1632246935051" duration="145000" />
+      <workItem from="1632247292179" duration="1230000" />
+      <workItem from="1632291172681" duration="65000" />
+      <workItem from="1632291559680" duration="1988000" />
+      <workItem from="1632335771740" duration="9000" />
+      <workItem from="1633717940896" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632291653437">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1632291653437" />
+    <state x="504" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631690134718">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="504" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1631690134718" />
+    <state x="380" y="145" key="DBNavigator.DatasetFilterDialog" timestamp="1632138483833">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="145" key="DBNavigator.DatasetFilterDialog/0.0.1600.860@0.0.1600.860" timestamp="1632138483833" />
+    <state x="330" y="85" key="DBNavigator.ProjectSettingsDialog" timestamp="1632138385341">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="85" key="DBNavigator.ProjectSettingsDialog/0.0.1600.860@0.0.1600.860" timestamp="1632138385341" />
+    <state x="560" y="117" key="FileChooserDialogImpl" timestamp="1631689284023">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="560" y="117" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1631689284023" />
+    <state width="1557" height="235" key="GridCell.Tab.0.bottom" timestamp="1631718533050">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1631718533050" />
+    <state width="1557" height="235" key="GridCell.Tab.0.center" timestamp="1631718533050">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1631718533050" />
+    <state width="1557" height="235" key="GridCell.Tab.0.left" timestamp="1631718533049">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1631718533049" />
+    <state width="1557" height="235" key="GridCell.Tab.0.right" timestamp="1631718533050">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1631718533050" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1631705582176">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1631705582176" />
+    <state x="507" y="163" width="585" height="534" key="find.popup" timestamp="1631691496342">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="163" width="585" height="534" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1631691496342" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1630931867754">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1600.860@0.0.1600.860" timestamp="1630931867754" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1632163861415">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1632163861415" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1632115938070">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1632115938070" />
+  </component>
+</project>
